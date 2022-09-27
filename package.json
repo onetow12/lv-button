@@ -1,5 +1,5 @@
 {
-  "name": "lv-button",
+  "name": "@uzzo-ba/lv-button",
   "private": false,
   "version": "0.0.0",
   "main": "./dist/lv-button.umd.js",

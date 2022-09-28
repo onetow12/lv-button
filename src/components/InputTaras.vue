@@ -8,7 +8,6 @@ export default {
   name: "Input",
   props: {
     prop: {
-      type: String,
       required: true,
     }
   }

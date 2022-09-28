@@ -4,7 +4,5 @@ import InputTaras from "./components/InputTaras.vue";
 export default {
     install: (app,options)=> {
         app.component("LearnVueButton", LearnVueButton)
-    } 
+    }, InputTaras
 };
-
-export { InputTaras }

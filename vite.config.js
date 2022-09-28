@@ -8,7 +8,7 @@ export default defineConfig({
     lib:{
       entry: resolve(__dirname, "src/index.js"),
       name:"lv-button",
-      fileName: (format)=> `${format}.js`
+      fileName: `lv-button`
     },
     rollupOptions:{
       external:["vue"],

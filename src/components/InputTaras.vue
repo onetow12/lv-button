@@ -5,7 +5,7 @@
 <script lang="ts">
 
 export default {
-  name: "Input",
+  name: "InputTaras",
   props: {
     prop: {
       required: true,

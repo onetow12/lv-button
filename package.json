@@ -1,7 +1,7 @@
 {
   "name": "@uzzo-ba/lv-button",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./dist/lv-button.umd.js",
   "module": "./dist/lv-button.es.js",
   "exports": {
